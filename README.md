@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm Yannick Bijl.
+
+I have studied bioinformatics and computer science.
+Started working in the industry at a biotech company.
+
+Am interested in way too many things, including (but not exhaustive):
+* Computer Science
+* Biology
+* BioInformatics
+* Game Design
+* Books (Writing & Reading)
+* Philosophy
+* History
+
 <!--
 **yannickbijl/yannickbijl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
