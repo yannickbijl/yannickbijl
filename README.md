@@ -14,6 +14,12 @@ Am interested in way too many things, including (but not exhaustive):
 * Philosophy
 * History
 
+Languages
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=bash&logoColor=white)
+
+
 <!--
 **yannickbijl/yannickbijl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
