@@ -17,7 +17,7 @@ Am interested in way too many things, including (but not exhaustive):
 ## Languages  
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=bash&logoColor=white)
+![bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🔗 Links  
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yannickbijl)
